@@ -1,0 +1,13 @@
+D:\Store_projekt\Backend\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\Store_projekt\Backend\DTO\bin\Debug\net8.0\DTO.dll
+D:\Store_projekt\Backend\DTO\bin\Debug\net8.0\DTO.pdb
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.dll
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\DTO.pdb
+D:\Store_projekt\Backend\DTO\obj\Debug\net8.0\ref\DTO.dll

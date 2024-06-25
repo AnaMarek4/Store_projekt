@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store_projekt\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21D955-9AB8-465C-A7F0-216A601BF26C}|Store.WebAPI\\Store.WebAPI.csproj|d:\\store_projekt\\backend\\store.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C21D955-9AB8-465C-A7F0-216A601BF26C}|Store.WebAPI\\Store.WebAPI.csproj|solutionrelative:store.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21D955-9AB8-465C-A7F0-216A601BF26C}|Store.WebAPI\\Store.WebAPI.csproj|d:\\store_projekt\\backend\\store.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21D955-9AB8-465C-A7F0-216A601BF26C}|Store.WebAPI\\Store.WebAPI.csproj|solutionrelative:store.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21D955-9AB8-465C-A7F0-216A601BF26C}|Store.WebAPI\\Store.WebAPI.csproj|d:\\store_projekt\\backend\\store.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21D955-9AB8-465C-A7F0-216A601BF26C}|Store.WebAPI\\Store.WebAPI.csproj|solutionrelative:store.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBEE4A3-B521-433F-A462-992F02431332}|Store.Mapper\\Store.Mapper.csproj|d:\\store_projekt\\backend\\store.mapper\\reviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBEE4A3-B521-433F-A462-992F02431332}|Store.Mapper\\Store.Mapper.csproj|solutionrelative:store.mapper\\reviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBEE4A3-B521-433F-A462-992F02431332}|Store.Mapper\\Store.Mapper.csproj|d:\\store_projekt\\backend\\store.mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBEE4A3-B521-433F-A462-992F02431332}|Store.Mapper\\Store.Mapper.csproj|solutionrelative:store.mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CD6370-D893-4195-8B89-29E6AD51EF38}|Store.Repository\\Store.Repository.csproj|d:\\store_projekt\\backend\\store.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CD6370-D893-4195-8B89-29E6AD51EF38}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0556297-068D-4867-A55A-AF3290D67A96}|DTO\\DTO.csproj|d:\\store_projekt\\backend\\dto\\productmodel\\productget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0556297-068D-4867-A55A-AF3290D67A96}|DTO\\DTO.csproj|solutionrelative:dto\\productmodel\\productget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store_projekt\\Backend\\Store.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Store.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Store_projekt\\Backend\\Store.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Store.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T08:20:18.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Store_projekt\\Backend\\Store.WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Store.WebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Store_projekt\\Backend\\Store.WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Store.WebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:14:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewProfile.cs",
+              "DocumentMoniker": "D:\\Store_projekt\\Backend\\Store.Mapper\\ReviewProfile.cs",
+              "RelativeDocumentMoniker": "Store.Mapper\\ReviewProfile.cs",
+              "ToolTip": "D:\\Store_projekt\\Backend\\Store.Mapper\\ReviewProfile.cs",
+              "RelativeToolTip": "Store.Mapper\\ReviewProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:14:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\Store_projekt\\Backend\\Store.Mapper\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Store.Mapper\\ProductProfile.cs",
+              "ToolTip": "D:\\Store_projekt\\Backend\\Store.Mapper\\ProductProfile.cs",
+              "RelativeToolTip": "Store.Mapper\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:14:38.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store_projekt\\Backend\\Store.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Store.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Store_projekt\\Backend\\Store.WebAPI\\Program.cs",
+              "RelativeToolTip": "Store.WebAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:14:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductGet.cs",
+              "DocumentMoniker": "D:\\Store_projekt\\Backend\\DTO\\ProductModel\\ProductGet.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductModel\\ProductGet.cs",
+              "ToolTip": "D:\\Store_projekt\\Backend\\DTO\\ProductModel\\ProductGet.cs",
+              "RelativeToolTip": "DTO\\ProductModel\\ProductGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:08:31.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Store_projekt\\Backend\\Store.Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Store_projekt\\Backend\\Store.Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Store.Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAIAwwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:05:53.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
