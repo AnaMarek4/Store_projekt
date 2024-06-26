@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style/style.css"> 
+    <title>Store</title>
+</head>
+
+<header>
+    <h1>Store</h1>  
+</header>
+  
+<body>
+    <nav>
+        <div class="main">
+            <a href="" class="main-active">STORE</a>
+            <a href="Reviews.html">REVIEW</a>
+            <a href="About.html">ABOUT</a>
+            <a href="Contact.html">CONTACT</a>
+        </div>
+        
+    </nav>
+
+    <div class="filter-condition">
+        <span>Sort by: </span>
+        <select name="" id="select">
+          <option value="Default">Default</option>
+          <option value="AtoZ">Name: A to Z</option>
+          <option value="ZtoA">Name: Z to A</option>
+          <option value="LowToHigh">Price: Low to high</option>
+          <option value="HighToLow">Price: High to low</option>
+        </select>
+    </div>
+
+    <div class="search">
+        <input type="text" id="search-input" placeholder="Search...">
+        <button id="search-button">Search</button>
+    </div>
+
+    <div class="items-grid"></div>
+
+    </div>
+
+    <script src="..\javascript/home.js"></script>
+</body>

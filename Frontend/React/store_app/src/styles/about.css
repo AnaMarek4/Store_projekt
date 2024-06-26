@@ -1,0 +1,16 @@
+.about-section {
+    padding: 20px;
+}
+
+.about-section h2 {
+    margin-top: 0;
+}
+
+.about-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.about-section ul li {
+    margin-bottom: 10px;
+}
